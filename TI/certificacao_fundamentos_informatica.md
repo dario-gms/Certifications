@@ -24,10 +24,10 @@
 - Conhecimentos em protocolos de internet
 - Habilidades em resolução de problemas técnicos
 
-<div style="clear: both;"></div>
-
-<img src="i4bZKq9VkX-fed074c6ecc1b0fe.jpg" alt="i4bZKq9VkX-fed074c6ecc1b0fe.jpg" width="500"/>
-
 ---
 
-Essa certificação comprova minhas habilidades e conhecimentos fundamentais em informática, abrangendo uma variedade de competências essenciais para o ambiente digital moderno.
+**Link da Certificação:** [Certificado Online](https://certs.ibsec.com.br?cert_hash=fed074c6ecc1b0fe)
+
+![Certificado Digital](i4bZKq9VkX-fed074c6ecc1b0fe.jpg)
+
+Esta certificação atesta minhas habilidades e conhecimentos fundamentais em informática, abrangendo uma variedade de competências essenciais para o ambiente digital moderno.
