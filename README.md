@@ -18,7 +18,7 @@ Aqui estão listadas algumas das certificações que obtive, com links para os c
 
 ### Tecnologia da Informação
 
-- **[Fundamentos em Informática](link_do_certificado)**
+- **[Fundamentos em Informática](TI/certificacao_fundamentos_informatica.md)**
   - Emissor: IBSEC
   - Data de Conclusão: julho de 2024
   - Descrição: Conhecimentos em gerenciamento de programas no Windows, formatação de texto, sistemas operacionais para celular, componentes de um computador, protocolos de internet, e resolução de problemas técnicos.
