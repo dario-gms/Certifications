@@ -1,6 +1,8 @@
 # Certificação: Fundamentos de Informática
 
-<img src="PT-IC-INF-1970.png" alt="PT-IC-INF-1970.png" width="200"/>
+<div style="text-align: right;">
+  <img src="PT-IC-INF-1970.png" alt="PT-IC-INF-1970.png" width="200"/>
+</div>
 
 **Identificador:** #fed074c6ecc1b0fe  
 **Emitido Por:** IBSEC  
@@ -21,6 +23,10 @@
 - Habilidades em componentes de um computador
 - Conhecimentos em protocolos de internet
 - Habilidades em resolução de problemas técnicos
+
+<div style="clear: both;"></div>
+
+<img src="i4bZKq9VkX-fed074c6ecc1b0fe.jpg" alt="i4bZKq9VkX-fed074c6ecc1b0fe.jpg" width="500"/>
 
 ---
 
