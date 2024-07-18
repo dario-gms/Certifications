@@ -1,6 +1,6 @@
 # Certificação: Fundamentos de Informática
 
-![Certificado](PT-IC-INF-1970.png)
+<img src="PT-IC-INF-1970.png" alt="PT-IC-INF-1970.png" width="200"/>
 
 **Identificador:** #fed074c6ecc1b0fe  
 **Emitido Por:** IBSEC  
