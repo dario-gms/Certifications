@@ -30,7 +30,7 @@ Aqui estão listadas algumas das certificações que obtive, com links para os c
 Se você tiver alguma dúvida ou gostaria de saber mais sobre minhas certificações, sinta-se à vontade para entrar em contato.
 
 - **E-mail:** [dario.gomes.fj@outlook.com](mailto:dario.gomes.fj@outlook.com)
-- **LinkedIn:** [Dário Gomes](www.linkedin.com/in/dário-gomes-73b0a221b)
+- **LinkedIn:** dário-gomes-73b0a221b
 
 Obrigado por visitar meu repositório de certificações!
 
